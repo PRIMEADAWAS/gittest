@@ -1,5 +1,4 @@
 console.log("Hello");
 
-data = [1,2,3]
-
-data.map((val)=>console.log(val))
+data = [2, 3, 4];
+json = { dd: 2 };
